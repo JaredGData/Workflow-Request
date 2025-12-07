@@ -70,7 +70,7 @@ Operational implication:
 Operational implication:
 - Mid-month is the operational peak; plan staffing and SLA targets accordingly.
 
-🛠 Technical Features of the Report
+Technical Features of the Report
 - Dynamic slicers (warehouse, month, day)
 - Custom sorting (DayName sorted by weekday number)
 - Matrix tables for granular breakdown
